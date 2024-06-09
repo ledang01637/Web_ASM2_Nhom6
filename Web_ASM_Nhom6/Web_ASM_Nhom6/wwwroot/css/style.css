@@ -1,0 +1,56 @@
+﻿.bg-login {
+    background-color: #cacacaca;
+    border-radius: 13px;
+}
+
+.text-title {
+    font-weight: bold;
+    font-size: x-large
+}
+
+.text-label {
+    font-weight: bold;
+    font-size: large;
+}
+
+.input-brd {
+    border-radius: 15px;
+}
+
+.bg-left {
+    border-radius: 15px 0 0 15px;
+}
+
+.gr-icon {
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    list-style: none;
+}
+
+.main-card {
+    padding: 0;
+}
+
+.item {
+    margin: 0 25px;
+}
+
+    .item:last-child {
+        margin-right: 0;
+    }
+
+.gr-icon li a {
+    font-size: 32px;
+}
+
+.gr-btn {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.bg-right {
+    padding: 15px;
+}

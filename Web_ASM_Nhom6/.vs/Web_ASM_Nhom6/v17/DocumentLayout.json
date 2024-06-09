@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#5\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|d:\\fpt poly\\c#5\\new folder\\web_asm2_nhom6\\web_asm_nhom6\\web_asm_nhom6\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\wwwroot\\privacypolicypage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\wwwroot\\privacypolicypage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrivacyPolicyPage.html",
+              "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\wwwroot\\PrivacyPolicyPage.html",
+              "RelativeDocumentMoniker": "Web_ASM_Nhom6\\wwwroot\\PrivacyPolicyPage.html",
+              "ToolTip": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\wwwroot\\PrivacyPolicyPage.html",
+              "RelativeToolTip": "Web_ASM_Nhom6\\wwwroot\\PrivacyPolicyPage.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-09T13:11:46.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_ASM_Nhom6\\appsettings.json",
+              "ToolTip": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\appsettings.json",
+              "RelativeToolTip": "Web_ASM_Nhom6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T13:47:53.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Startup.cs",
+              "RelativeDocumentMoniker": "Web_ASM_Nhom6\\Startup.cs",
+              "ToolTip": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Startup.cs",
+              "RelativeToolTip": "Web_ASM_Nhom6\\Startup.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:41:08.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_ASM_Nhom6\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Web_ASM_Nhom6\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T09:47:37.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Web_ASM_Nhom6\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "Web_ASM_Nhom6\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T09:09:12.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_ASM_Nhom6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web_ASM_Nhom6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAcwMsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T09:04:17.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Web_ASM_Nhom6\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Web_ASM_Nhom6\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAkwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:02:55.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 428,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e9d26e9f-2060-4aa2-bec3-2a9e07c66900}"
             }
           ]
         }

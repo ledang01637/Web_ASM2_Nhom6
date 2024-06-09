@@ -1,0 +1,56 @@
+﻿<div class="container mt-5 mb-5">
+    <div class="row">
+        <div class="col">
+            <div class="wm-widget wm-cart">
+                <h1 class="ui header">Giỏ hàng của bạn</h1>
+                <div class="cart-content" style="overflow-x:auto;">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th class="col-2 center aligned align-middle">Ảnh</th>
+                                <th class="col-3 center aligned">Sản phẩm</th>
+                                <th class="col-2 center aligned">Số lượng</th>
+                                <th class="col-3 center aligned">Giá</th>
+                                <th class="col-4 center aligned">Thành tiền</th>
+                                <th class="col-1 center aligned">&nbsp;</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="align-middle">
+                                    <img class="img-fluid rounded d-block" width="70px" height="auto" src="https://img5.thuthuatphanmem.vn/uploads/2021/11/09/anh-do-an-de-thuong_095144583.jpg" alt="image">
+                                </td>
+                                <td class="align-middle fw-bold">name</td>
+                                <td class="align-middle">
+                                    <div class="input-group" style="width: 70%;">
+                                        <input class="form-control txt-qty" type="number" min="1" value="1">
+                                        <button class="btn btn-outline-secondary btn-rfresh-qty" rel-p="15735"><i class="fas fa-sync-alt"></i></button>
+                                    </div>
+                                </td>
+                                <td class="right aligned align-middle price">1000000000000 VNĐ</td>
+                                <td class="right aligned align-middle total">priceĐ VNĐ</td>
+                                <td class="center aligned align-middle">
+                                    <a type="submit" asp-action="DeleteProduct" asp-area="User" asp-controller="Cart" asp-route-id="product_id" title="Xoá" class="btn btn-outline-danger btn-trash-cart" rel-p="15735">
+                                        <i class="fas fa-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th colspan="4" class="right aligned"><strong>Tổng cộng :</strong></th>
+                                <th class="right aligned error total-price"></th>
+                                <th>&nbsp;</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+                <br>
+                <div class="mb-3">
+                    <a class="btn btn-success" asp-action="Index" asp-controller="User"><i class="fas fa-arrow-left"></i> Tiếp tục mua hàng</a>
+                    <a class="btn btn-primary" asp-action="Index" asp-controller="Order"><i class="fas fa-share"></i> Thanh toán</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

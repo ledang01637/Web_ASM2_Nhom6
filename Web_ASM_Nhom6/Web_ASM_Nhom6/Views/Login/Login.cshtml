@@ -1,0 +1,32 @@
+﻿<div class="card bg-login mt-5 mb-5">
+    <div class="card-body row main-card">
+        <div class="col-md-6 bg-left" style="background-image: url('https://i.pinimg.com/564x/06/ab/18/06ab18bbf61d13cc1ea3f57f4f855754.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center;"></div>
+        <div class="col-md-6 bg-right">
+            <form asp-action="Login" asp-controller="Login" method="post">
+                <div class="text-center ms-5 me-5">
+                    <span class="text-title">Đăng nhập</span>
+                </div>
+                <div class="form-group pb-2 ms-5 me-5">
+                    <label class="form-label text-label pb-2" for="Username">Tên tài khoản</label>
+                    <input class="form-control input-brd" type="text" name="username" id="">
+                </div>
+                <div class="form-group pb-2 ms-5 me-5">
+                    <label class="form-label text-label pb-2" for="Password">Mật khẩu</label>
+                    <input class="form-control input-brd" type="password" name="password" id="">
+                </div>
+                <div class="ms-5 me-5">
+                    <ul class="gr-icon">
+                        <li class="item"><a style="color: #000;" asp-action="SignInWithFacebook" asp-controller="Login"><i class="fab fa-facebook"></i></a></li>
+                        <li class="item"><a style="color: #000;" asp-action="SingInWithGoogle" asp-controller="Login"><i class="fab fa-google"></i></a></li>
+                        <li class="item"><a style="color: #000;" href=""><i class="fas fa-mobile"></i></a></li>
+                    </ul>
+                </div>
+                <div class="ms-5 me-5 gr-btn mb-3">
+                    <button class="btn btn-success">Đăng kí</button>
+                    <button type="submit" class="btn btn-primary">Đăng nhập</button>
+                </div>
+            </form>
+            
+        </div>
+    </div>
+</div>

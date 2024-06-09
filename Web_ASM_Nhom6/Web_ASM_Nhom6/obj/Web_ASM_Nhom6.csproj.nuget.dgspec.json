@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#5\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj": {}
+    "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj": {}
   },
   "projects": {
-    "D:\\C#5\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj": {
+    "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#5\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj",
+        "projectUniqueName": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj",
         "projectName": "Web_ASM_Nhom6",
-        "projectPath": "D:\\C#5\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj",
+        "projectPath": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\C#5\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\obj\\",
+        "outputPath": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +49,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -69,6 +76,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.17, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -94,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
