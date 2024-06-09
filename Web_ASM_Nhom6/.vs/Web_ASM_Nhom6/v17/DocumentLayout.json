@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|d:\\fpt poly\\c#5\\new folder\\web_asm2_nhom6\\web_asm_nhom6\\web_asm_nhom6\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|d:\\fpt poly\\c#5\\new folder\\web_asm2_nhom6\\web_asm_nhom6\\web_asm_nhom6\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\wwwroot\\privacypolicypage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\wwwroot\\privacypolicypage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|solutionrelative:web_asm_nhom6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EA62273-F614-443F-838D-3145580DC453}|Web_ASM_Nhom6\\Web_ASM_Nhom6.csproj|D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\web_asm_nhom6\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PrivacyPolicyPage.html",
               "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\wwwroot\\PrivacyPolicyPage.html",
               "RelativeDocumentMoniker": "Web_ASM_Nhom6\\wwwroot\\PrivacyPolicyPage.html",
@@ -74,19 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\appsettings.json",
               "RelativeDocumentMoniker": "Web_ASM_Nhom6\\appsettings.json",
               "ToolTip": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\appsettings.json",
               "RelativeToolTip": "Web_ASM_Nhom6\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-08T13:47:53.54Z"
+              "WhenOpened": "2024-06-08T13:47:53.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Startup.cs",
               "RelativeDocumentMoniker": "Web_ASM_Nhom6\\Startup.cs",
@@ -94,8 +95,7 @@
               "RelativeToolTip": "Web_ASM_Nhom6\\Startup.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAgwCoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T12:41:08.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T12:41:08.645Z"
             },
             {
               "$type": "Document",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Web_ASM_Nhom6\\Views\\Shared\\_Layout.cshtml",
@@ -135,13 +135,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Web_ASM_Nhom6\\Controllers\\LoginController.cs",
               "ToolTip": "D:\\FPT Poly\\C#5\\New folder\\Web_ASM2_Nhom6\\Web_ASM_Nhom6\\Web_ASM_Nhom6\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Web_ASM_Nhom6\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAkwEkAAAAAAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T09:02:55.92Z",
               "EditorCaption": ""
